@@ -1,2 +1,3 @@
 Tekst początkowy
 Nowa linia tekstu student B
+Nowa linia tekstu od studenta A
